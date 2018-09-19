@@ -1,6 +1,6 @@
 import csv
 a=[
-	{'name': 'Masha', 'age': 25, 'job': 'Scientist'}, 
+    {'name': 'Masha', 'age': 25, 'job': 'Scientist'}, 
     {'name': 'Vasya', 'age': 8, 'job': 'Programmer'}, 
     {'name': 'Eduard', 'age': 48, 'job': 'Big boss'},
   ]
