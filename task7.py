@@ -8,5 +8,5 @@ print(previous_time)
 
 #Превратите строку "01/01/17 12:10:03.234567" в объект datetime
 date_string='01/01/17 12:10:03.234567'
-date_object=datetime.strptime(date_string, '%m/%d/%Y %H:%M:%S')
+date_object=datetime.strptime(date_string, '%m/%d/%y %H:%M:%S.%f')
 print(date_object)
